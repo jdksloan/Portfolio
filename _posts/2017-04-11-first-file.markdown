@@ -7,4 +7,4 @@ categories: Jethro
 
 
 Hello World! Welcome to my blog
-![My helpful screenshot]({{ site.url }}/images/screenshot.png)
+![My helpful screenshot]({{ site.url | append:site.baseurl}}/images/screenshot.png)
