@@ -37,3 +37,6 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+extlinks:
+   attributes: {rel: nofollow, target: _blank}
+   rel_exclude: ['host1.com', 'host2.net']
