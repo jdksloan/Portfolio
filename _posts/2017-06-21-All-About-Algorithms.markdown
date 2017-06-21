@@ -12,7 +12,7 @@ Fortunately for us, programming turns those theories into working code.
 
 Lately I've been testing myself vs some of the latest and most challenging problems, taking into consideration time and space complexity based on Big O notation.
 
-Have a look at my GitHub project to see how I've done [Link text](https://github.com/jdksloan/AllAboutAlgorithms)
+Have a look at my GitHub project to see how I've done: [Algorithms](https://github.com/jdksloan/AllAboutAlgorithms)
 
 Yours Truly,
 
